@@ -4,7 +4,7 @@ The purpose of this repository is to store the code I wrote for an independent s
 
 The programs hosted here include:
 
-*Heat Equation:
+* Heat Equation:
     *Backward Euler method (backwardEuler.m)
     *Forward Euler method (forwardEuler.m)
     *Crank-Nicholson (CrankNicholson.m)
