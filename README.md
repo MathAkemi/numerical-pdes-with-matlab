@@ -1,4 +1,4 @@
-# Numerical-PDEs-with-MATLAB
+# numerical-pdes-with-matlab
 
 The purpose of this repository is to store the code I wrote for an independent study in numerical PDEs during the Fall 2023 semester. These programs should demonstrate my knowledge at implementing techniques of solving PDEs in MATLAB and at mathematical computing in general. The code was written following the book "Numerical solutions of partial differential equations" by Dr. Louise Olsen-Kettle. Within the book, MATLAB solutions were provided, which were used to check the base of my work.
 
